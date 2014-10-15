@@ -1,0 +1,12 @@
+* {
+	font-family: 'Pacifico', cursive;
+}
+
+body {
+	margin: 40px;
+}
+
+form
+{
+	display:  inline-block;
+}
